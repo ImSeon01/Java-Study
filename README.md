@@ -8,3 +8,6 @@ https://www.notion.so/cfc16547f19e4a2b9bfe5ffbd5a3a25e
 
 ## 02. 변수
 https://www.notion.so/Chapter-02-49eab2bbca7c4f9aa7a19d5a31b99364
+
+## 03. 연산자
+https://www.notion.so/Chapter-03-bb8e15e0b81c4c8884ec8f144e543ec4
