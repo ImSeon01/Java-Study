@@ -16,4 +16,4 @@ https://www.notion.so/Chapter-03-bb8e15e0b81c4c8884ec8f144e543ec4
 https://www.notion.so/Chapter-04-02f24c965c4e4707a167c8d3d1abf23a
 
 ## 05. 참조타입
-https://www.notion.so/Chapter-05-02f24c965c4e4707a167c8d3d1abf23a
+https://www.notion.so/Chpater-05-1e67b06c9fdd4f0ea9ead936ec5ef5ce
