@@ -17,3 +17,6 @@ https://www.notion.so/Chapter-04-02f24c965c4e4707a167c8d3d1abf23a
 
 ## 05. 참조타입
 https://www.notion.so/Chpater-05-1e67b06c9fdd4f0ea9ead936ec5ef5ce
+
+## 06. 클래스
+https://www.notion.so/Chapter-06-79e71a797713445baa974150cb01e75a
